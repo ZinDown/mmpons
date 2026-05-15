@@ -7,6 +7,18 @@
 "adstime":"4",
 "ap":[
   {
+    "title": "မြန်မာ စမူစာ ၁ ",
+    "image": "https://maynoe.com/wp-content/uploads/2026/05/v052607a.jpg",
+    "link": "https://zindown.github.io/Web/?link=https://raw.githubusercontent.com/ZinDown/mmpons/refs/heads/main/samusar/11.json",
+    "type": "x"
+  },
+  {
+    "title": "မြန်မာ စမူစာ ၂",
+    "image": "https://maynoe.com/wp-content/uploads/2026/04/v042620c.jpg",
+    "link": "https://zindown.github.io/Web/?link=https://raw.githubusercontent.com/ZinDown/mmpons/refs/heads/main/samusar/12.json",
+    "type": "x"
+  },
+  {
     "title": " မြန်မာ ပါကင် ကြည့်ရန် ",
     "image": "https://maynoe.com/wp-content/uploads/2026/04/v042616ab.jpg",
     "link": "https://zindown.github.io/Web/?link=https://raw.githubusercontent.com/ZinDown/mmpons/refs/heads/main/mmpon/21.json",
